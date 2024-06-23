@@ -1,0 +1,28 @@
+{
+  "name": "create-tailwind-library",
+  "version": "0.0.6",
+  "description": "CLI to create a React component library with Tailwind CSS, ESLint, and Husky",
+  "main": "index.js",
+  "bin": {
+    "create-tailwind-library": "bin/create-tailwind-library.js"
+  },
+  "dependencies": {
+    "commander": "^8.0.0",
+    "fs-extra": "^10.0.0"
+  },
+  "scripts": {
+    "start": "node bin/create-tailwind-library.js"
+  },
+  "keywords": [
+    "scaffold",
+    "react",
+    "tailwindcss",
+    "library",
+    "cli"
+  ],
+  "author": {
+    "name": "Pablo Naveira",
+    "email": "pablonaveiralopez@gmail.com"
+  },
+  "license": "MIT"
+}
