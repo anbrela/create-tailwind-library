@@ -21,6 +21,12 @@ program
     // Copy template files
     fs.copySync(templateDir, projectPath);
 
+    // Copy .gitignore explicitly
+    fs.copySync(
+      path.join(templateDir, "_gitignore"),
+      path.join(projectPath, ".gitignore")
+    );
+
     console.log("📦 Installing dependencies...");
     // Install dependencies
     try {
