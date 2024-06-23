@@ -2,6 +2,10 @@
 
 Welcome to **Create Tailwind Library**! This CLI tool sets up a complete environment for creating React component libraries with Tailwind CSS, TypeScript, ESLint, and Husky.
 
+## How to use
+
+![Vista previa del video](assets/video.gif)
+
 ## Features
 
 - 🛠️ **React**: Build reusable components with React.
@@ -11,8 +15,6 @@ Welcome to **Create Tailwind Library**! This CLI tool sets up a complete environ
 - 🐶 **Husky**: Run pre-commit hooks to ensure code quality.
 
 ## Getting Started
-
-![Vista previa del video](assets/video.gif)
 
 ### Prerequisites
 
