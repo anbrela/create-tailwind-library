@@ -1,6 +1,6 @@
 {
   "name": "create-tailwind-library",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "CLI to create a React component library with Tailwind CSS, ESLint, and Husky",
   "main": "index.js",
   "repository": {
