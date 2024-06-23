@@ -12,6 +12,8 @@ Welcome to **Create Tailwind Library**! This CLI tool sets up a complete environ
 
 ## Getting Started
 
+![Vista previa del video](assets/video.gif)
+
 ### Prerequisites
 
 Ensure you have the following installed on your machine:
