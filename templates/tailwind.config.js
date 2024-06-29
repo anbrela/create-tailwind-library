@@ -1,6 +1,6 @@
-module.exports = {
+export default {
   purge: ["./src/**/*.{js,jsx,ts,tsx}", "./public/index.html"],
-  content: ["./src/**/*.{html,js, ts, tsx}"],
+  content: ["./src/**/*.{html,js,ts,tsx}"],
   darkMode: false,
   theme: {
     extend: {},
